@@ -1,0 +1,25 @@
+{
+  "name": "pushstreamjs",
+  "version": "0.5.4",
+  "description": "Pushstream.js from nginx-push-stream-module",
+  "main": "pushstream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpasternak/pushstreamjs.git"
+  },
+  "keywords": [
+    "http",
+    "push",
+    "stream",
+    "nginx"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpasternak/pushstreamjs/issues"
+  },
+  "homepage": "https://github.com/mpasternak/pushstreamjs#readme"
+}
