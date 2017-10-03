@@ -1,2 +1,2 @@
 # pushstreamjs
-Pushstream.js nom package from nginx-push-stream-module
+Pushstream.js npm package from nginx-push-stream-module
