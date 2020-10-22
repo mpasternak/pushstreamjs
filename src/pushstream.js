@@ -1143,3 +1143,5 @@ Authors: Wandenberg Peixoto <wandenberg@gmail.com>, Rogério Carvalho Schneider 
   if (window.addEventListener) { window.addEventListener.call(window, "unload", PushStream.unload, false); }
 
 })(window, document);
+
+module.exports = window.PushStream;
