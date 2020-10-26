@@ -2,7 +2,7 @@
   "name": "pushstreamjs",
   "version": "0.5.4",
   "description": "Pushstream.js from nginx-push-stream-module",
-  "main": "pushstream.js",
+  "main": "src/pushstream.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
